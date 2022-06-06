@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Wesley Santos}!</strong>
+## :v: Olá, meu nome é <strong>{Wesley Santos}!</strong>
 
 > Sou, Junior Developer - foco em arquitetura Java e aplicações java web (JSP, Spring MVC e SpringBoot); REST API.
 
