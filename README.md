@@ -25,4 +25,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleysantosaju&show_icons=true)
 
 
-![snake gif](https://github.com/wesleysantosaju/wesleysantosaju/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/repositories/wesleysantosaju/blob/output/github-contribution-grid-snake.svg)
