@@ -23,3 +23,6 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleysantosaju&show_icons=true)
+
+
+![snake gif](https://github.com/wesleysantosaju/wesleysantosaju/blob/output/github-contribution-grid-snake.svg)
