@@ -22,7 +22,14 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleysantosaju&show_icons=true)
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysantosaju&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleysantosaju&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
 
 ![Snake animation](https://github.com/wesleysantosaju/wesleysantosaju/blob/output/github-contribution-grid-snake.svg)
