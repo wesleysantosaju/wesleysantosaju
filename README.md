@@ -31,6 +31,20 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleysantosaju&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
+## :calling: Meus Contatos
+
+<p align="left">
+  
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-santos-a3a11ba5/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5579998141623"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/s_vieiira/"/></a>
+</p>  
+
 
 ![Snake animation](https://github.com/wesleysantosaju/wesleysantosaju/blob/output/github-contribution-grid-snake.svg)
 
