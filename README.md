@@ -1,8 +1,8 @@
 ## :v: Olá, meu nome é <strong>{Wesley Santos}!</strong>
 
-> Sou, Junior Developer - foco em arquitetura Java e aplicações java web (JSP, Spring MVC e SpringBoot); REST API.
+> Sou, Ful Stack Developer - foco em arquitetura Java & Angular e aplicações java web (JSP, Spring MVC e SpringBoot); REST API.
 
-🔭 Atualmente trabalhando como Dev na Qintess, desenvolvendo API's em Java com auxílio de Spring MVC.
+🔭 Atualmente estou a procura de emprego.
 
 💬 Para saber mais, contate-me.
 
